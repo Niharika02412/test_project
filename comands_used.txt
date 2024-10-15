@@ -1,0 +1,34 @@
+    1  pwd
+    2  ls
+    3  cd new folder
+    4  pwd
+    5  mkdir f1
+    6  mkdir f2 f3 f4
+    7  rmdir f2
+    8  rmdir f3 f4
+    9  touch f1.py
+   10  touch f2.sql f3.txt f4.py
+   11  cat f3.txt
+   12  cat f2.sql
+   13  nano f1.py
+   14  cat f1.py
+   15  touch f5.txt
+   16  cat f5.txt
+   17  pwd
+   18  mkdir f1
+   19  mkdir f2 f3 f4
+   20  rmdir f2
+   21  rmdir f3 f4
+   22  rmdir f1
+   23  rm -r
+   24  rm -r f1
+   25  touch f1.py
+   26  touch f2.sql f3.txt f4.py
+   27  cat f3.txt
+   28  nano f1.py
+   29  nano f1.py
+   30  cat f1.py
+   31  nano f1.py
+   32  cat f1.py
+   33  history
+   34  history >> comands_used.txt
